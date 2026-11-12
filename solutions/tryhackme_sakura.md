@@ -1,5 +1,4 @@
-# tryhackme-writeups
-A collection of different rooms on tryhack me
+
 
 # TryHackMe : Sakura Room : https://tryhackme.com/room/sakura
 
