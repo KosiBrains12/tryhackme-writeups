@@ -1,5 +1,3 @@
-
-
 # TryHackMe : Sakura Room : https://tryhackme.com/room/sakura
 
 ## Overview : This room shows various OSINT techniques and tools, how to use OSINT in real-life situations, and the consequences of oversharing online. This page covers how I tackled each problem. I won't include the answers, but you'll find plenty of useful tips for getting through each stage. Basic OSINT and Linux experience is recommended before starting.Let's dive in.
